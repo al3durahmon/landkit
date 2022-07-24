@@ -1,0 +1,6 @@
+*{
+  box-sizing: border-box;
+}
+.img__desktop{
+  transform: rotateY(-15deg) rotateX(15deg);
+}
